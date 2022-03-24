@@ -1,4 +1,4 @@
-### Olá, eu sou o Carlos Januário. Atualmente como Técnico de Redes no Ministério Público de Minas Gerais (funcionário terceirizado) e sou estudante de desenvolvimento web.
+### Olá, eu sou o Carlos Januário. Trabalho como Técnico de Redes no Ministério Público de Minas Gerais (funcionário terceirizado) e sou estudante de desenvolvimento web.
 
 <div align="center">
   <a href="https://github.com/carlosvjs">
